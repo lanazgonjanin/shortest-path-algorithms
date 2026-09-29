@@ -2,7 +2,7 @@
 
 A Python framework for implementing, comparing, and evaluating shortest-path algorithms on real-world graph datasets.
 
-Developed as part of COMPSCI 2XC3: Algorithms and Software Design at McMaster University under Dr. Swati Mishra, in collaboration with Yanna Lazarova and Oriana Rueckert.
+Developed as part of COMPSCI 2XC3 (Algorithms and Software Design) at McMaster University under Dr. Swati Mishra, in collaboration with Yanna Lazarova and Oriana Rueckert.
 
 ## Overview
 

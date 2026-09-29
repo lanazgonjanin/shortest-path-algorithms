@@ -2,7 +2,7 @@
 
 A Python framework for implementing, comparing, and evaluating shortest-path algorithms on real-world graph datasets.
 
-The project was developed as part of **COMPSCI 2XC3: Algorithms and Software Design** in collaboration with **Yanna Lazarova**, **Oriana Rueckert**, and **Lana Zgonjanin**.
+The project was developed as part of COMPSCI 2XC3: Algorithms and Software Design under Dr. Swati Mishra in collaboration with Yanna Lazarova and Oriana Rueckert.
 
 ## Overview
 
